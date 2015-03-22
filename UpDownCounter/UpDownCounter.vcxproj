@@ -81,6 +81,7 @@
     <ClInclude Include="UpDownCounter.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="testUpDownCounter.cpp" />
     <ClCompile Include="UpDownCounter.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
